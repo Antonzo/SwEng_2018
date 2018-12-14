@@ -2,9 +2,6 @@
 	Name: свои фамилия и имя, латинницей
 	Added: дата и время в формате DD.MM.YYYY HH:mm
 ------------------------------------------------------
-Name: Korchagina Anastasia
-Added: 08.12.2018 22:37
-
 Name: Shvyryov Artyom
 Added: 08.12.2018 22:39
 
@@ -25,3 +22,6 @@ Added: 13.12.2018 21:40
 
 Name: Volodin Dmitry
 Added: 14.12.2018 03:51
+
+Name: Korchagina Anastasia
+Added: 14.12.2018 06:07
